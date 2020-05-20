@@ -1,0 +1,7 @@
+C:\Users\Le Sy Hung\Desktop\LTHDT\Bài Lab\1812767_LESYHUNG_lab03\lab03\lab03\bin\Debug\lab03.exe.config
+C:\Users\Le Sy Hung\Desktop\LTHDT\Bài Lab\1812767_LESYHUNG_lab03\lab03\lab03\bin\Debug\lab03.exe
+C:\Users\Le Sy Hung\Desktop\LTHDT\Bài Lab\1812767_LESYHUNG_lab03\lab03\lab03\bin\Debug\lab03.pdb
+C:\Users\Le Sy Hung\Desktop\LTHDT\Bài Lab\1812767_LESYHUNG_lab03\lab03\lab03\obj\Debug\lab03.csprojAssemblyReference.cache
+C:\Users\Le Sy Hung\Desktop\LTHDT\Bài Lab\1812767_LESYHUNG_lab03\lab03\lab03\obj\Debug\lab03.csproj.CoreCompileInputs.cache
+C:\Users\Le Sy Hung\Desktop\LTHDT\Bài Lab\1812767_LESYHUNG_lab03\lab03\lab03\obj\Debug\lab03.exe
+C:\Users\Le Sy Hung\Desktop\LTHDT\Bài Lab\1812767_LESYHUNG_lab03\lab03\lab03\obj\Debug\lab03.pdb

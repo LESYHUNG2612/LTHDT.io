@@ -1,0 +1,7 @@
+C:\Users\Le Sy Hung\Desktop\Mon LTHDT\1812767_LESYHUNG_Lab4_\1812767_LESYHUNG_Lab4_\bin\Debug\1812767_LESYHUNG_Lab4_.exe.config
+C:\Users\Le Sy Hung\Desktop\Mon LTHDT\1812767_LESYHUNG_Lab4_\1812767_LESYHUNG_Lab4_\bin\Debug\1812767_LESYHUNG_Lab4_.exe
+C:\Users\Le Sy Hung\Desktop\Mon LTHDT\1812767_LESYHUNG_Lab4_\1812767_LESYHUNG_Lab4_\bin\Debug\1812767_LESYHUNG_Lab4_.pdb
+C:\Users\Le Sy Hung\Desktop\Mon LTHDT\1812767_LESYHUNG_Lab4_\1812767_LESYHUNG_Lab4_\obj\Debug\1812767_LESYHUNG_Lab4_.csprojAssemblyReference.cache
+C:\Users\Le Sy Hung\Desktop\Mon LTHDT\1812767_LESYHUNG_Lab4_\1812767_LESYHUNG_Lab4_\obj\Debug\1812767_LESYHUNG_Lab4_.csproj.CoreCompileInputs.cache
+C:\Users\Le Sy Hung\Desktop\Mon LTHDT\1812767_LESYHUNG_Lab4_\1812767_LESYHUNG_Lab4_\obj\Debug\1812767_LESYHUNG_Lab4_.exe
+C:\Users\Le Sy Hung\Desktop\Mon LTHDT\1812767_LESYHUNG_Lab4_\1812767_LESYHUNG_Lab4_\obj\Debug\1812767_LESYHUNG_Lab4_.pdb

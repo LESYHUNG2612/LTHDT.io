@@ -1,0 +1,11 @@
+C:\Users\Le Sy Hung\Desktop\1812767_LESYHUNG_Lab02\Bai06\Bai06\bin\Debug\netcoreapp2.1\Bai06.deps.json
+C:\Users\Le Sy Hung\Desktop\1812767_LESYHUNG_Lab02\Bai06\Bai06\bin\Debug\netcoreapp2.1\Bai06.runtimeconfig.json
+C:\Users\Le Sy Hung\Desktop\1812767_LESYHUNG_Lab02\Bai06\Bai06\bin\Debug\netcoreapp2.1\Bai06.runtimeconfig.dev.json
+C:\Users\Le Sy Hung\Desktop\1812767_LESYHUNG_Lab02\Bai06\Bai06\bin\Debug\netcoreapp2.1\Bai06.dll
+C:\Users\Le Sy Hung\Desktop\1812767_LESYHUNG_Lab02\Bai06\Bai06\bin\Debug\netcoreapp2.1\Bai06.pdb
+C:\Users\Le Sy Hung\Desktop\1812767_LESYHUNG_Lab02\Bai06\Bai06\obj\Debug\netcoreapp2.1\Bai06.csprojAssemblyReference.cache
+C:\Users\Le Sy Hung\Desktop\1812767_LESYHUNG_Lab02\Bai06\Bai06\obj\Debug\netcoreapp2.1\Bai06.csproj.CoreCompileInputs.cache
+C:\Users\Le Sy Hung\Desktop\1812767_LESYHUNG_Lab02\Bai06\Bai06\obj\Debug\netcoreapp2.1\Bai06.AssemblyInfoInputs.cache
+C:\Users\Le Sy Hung\Desktop\1812767_LESYHUNG_Lab02\Bai06\Bai06\obj\Debug\netcoreapp2.1\Bai06.AssemblyInfo.cs
+C:\Users\Le Sy Hung\Desktop\1812767_LESYHUNG_Lab02\Bai06\Bai06\obj\Debug\netcoreapp2.1\Bai06.dll
+C:\Users\Le Sy Hung\Desktop\1812767_LESYHUNG_Lab02\Bai06\Bai06\obj\Debug\netcoreapp2.1\Bai06.pdb

@@ -1,0 +1,41 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Le Sy Hung\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Le Sy Hung\\Desktop\\Bài Lab\\1812767_LESYHUNG_Lab01\\Lab01_Bai03\\Lab01_Bai03\\Lab01_Bai03.csproj",
+      "projectName": "Lab01_Bai03",
+      "projectPath": "C:\\Users\\Le Sy Hung\\Desktop\\Bài Lab\\1812767_LESYHUNG_Lab01\\Lab01_Bai03\\Lab01_Bai03\\Lab01_Bai03.csproj",
+      "packagesPath": "C:\\Users\\Le Sy Hung\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Le Sy Hung\\Desktop\\Bài Lab\\1812767_LESYHUNG_Lab01\\Lab01_Bai03\\Lab01_Bai03\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Le Sy Hung\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.1": {}
+    }
+  }
+}
